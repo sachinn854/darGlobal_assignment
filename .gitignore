@@ -4,3 +4,7 @@ __pycache__/
 node_modules/
 frontend/dist/
 *.log
+PHASES.md
+PLAN.md
+PRODUCT.md
+SAMPLE_VERIFY.txt
