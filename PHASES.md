@@ -175,8 +175,10 @@ Files: `Dockerfile`, `.dockerignore`.
 ## Phase 6 - Deployment - PENDING
 File: `render.yaml` (Docker runtime, free plan, Frankfurt region, health check
 `/health`, secret env vars set without storing values).
-Remaining: push the repository to GitHub, create the Render web service, set the
-OpenRouter and Qdrant secrets in Render, deploy, and verify the live URL.
+Repository pushed to `https://github.com/sachinn854/darGlobal_assignment`
+(private, branch `master`). Remaining: create the Render web service from this
+repo, set the OpenRouter and Qdrant secrets in Render, deploy, and verify the
+live URL.
 
 ---
 
